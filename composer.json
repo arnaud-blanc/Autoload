@@ -1,0 +1,14 @@
+{
+    "name": "arnaud/autoload",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "arnaud-blanc",
+            "email": "mail.github2@blaca.eu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    },
+    "require": {}
+}
