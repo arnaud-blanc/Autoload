@@ -10,5 +10,7 @@
     "autoload": {
         "psr-4": {"App\\": "src/"}
     },
-    "require": {}
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
 }
